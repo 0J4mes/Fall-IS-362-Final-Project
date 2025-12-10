@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """
 IS 362 Final Project: Whole Foods Supply Chain Analysis
-Team: [Your Team Name Here]
-Date: May 14, 2023
 """
 
 import pandas as pd
