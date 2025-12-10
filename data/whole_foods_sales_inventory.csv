@@ -1,0 +1,594 @@
+date,department,product_category,store,sales_volume,inventory_level,restock_time_days,waste_percentage,is_weekend,month,day_of_week
+2022-10-01,Produce,Produce Category,SF_Noe_Valley,156,171,1,3.1858257107591914,1,10,5
+2022-10-01,Dairy,Dairy Category,SF_Noe_Valley,463,905,2,1.318212352431953,1,10,5
+2022-10-02,Produce,Produce Category,NYC_Chelsea,100,975,3,4.924538986130547,1,10,6
+2022-10-02,Produce,Produce Category,LA_Venice,184,120,1,0.7927321684337578,1,10,6
+2022-10-02,Produce,Produce Category,CHI_Lincoln_Park,365,113,2,2.2343742614296227,1,10,6
+2022-10-02,Dairy,Dairy Category,SF_Noe_Valley,84,305,1,1.6645099172000761,1,10,6
+2022-10-02,Bakery,Bakery Category,CHI_Lincoln_Park,267,655,2,2.278176062008165,1,10,6
+2022-10-02,Grocery,Grocery Category,NYC_Chelsea,400,915,3,0.8982162592336378,1,10,6
+2022-10-03,Produce,Produce Category,LA_Venice,459,316,4,3.2316541145900812,0,10,0
+2022-10-03,Bakery,Bakery Category,NYC_Chelsea,468,388,3,0.8332009328034067,0,10,0
+2022-10-03,Bakery,Bakery Category,CHI_Lincoln_Park,377,879,2,0.9293455242068509,0,10,0
+2022-10-04,Produce,Produce Category,CHI_Lincoln_Park,180,868,1,3.025747389062733,0,10,1
+2022-10-04,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,408,894,1,3.6979830035860433,0,10,1
+2022-10-04,Dairy,Dairy Category,NYC_Chelsea,290,663,1,2.7885681102411626,0,10,1
+2022-10-04,Dairy,Dairy Category,SF_Noe_Valley,456,330,1,2.929284910857529,0,10,1
+2022-10-04,Dairy,Dairy Category,CHI_Lincoln_Park,376,798,3,1.2254957926430199,0,10,1
+2022-10-04,Bakery,Bakery Category,NYC_Chelsea,94,673,1,0.9747241692362177,0,10,1
+2022-10-04,Grocery,Grocery Category,NYC_Chelsea,177,605,3,4.53241084965572,0,10,1
+2022-10-05,Produce,Produce Category,SF_Noe_Valley,282,358,3,1.2409513391432379,0,10,2
+2022-10-05,Bakery,Bakery Category,CHI_Lincoln_Park,150,724,4,0.6659912630953976,0,10,2
+2022-10-06,Produce,Produce Category,NYC_Chelsea,452,737,2,2.8892056249271136,0,10,3
+2022-10-06,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,374,983,2,3.3508836984240262,0,10,3
+2022-10-06,Dairy,Dairy Category,LA_Venice,173,286,2,3.6311576305589686,0,10,3
+2022-10-06,Dairy,Dairy Category,CHI_Lincoln_Park,301,502,2,2.8044187623467645,0,10,3
+2022-10-06,Grocery,Grocery Category,SF_Noe_Valley,178,878,4,3.8084725365834746,0,10,3
+2022-10-07,Produce,Produce Category,CHI_Lincoln_Park,109,980,2,4.983141648910659,0,10,4
+2022-10-07,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,86,259,3,1.3491819875362072,0,10,4
+2022-10-07,Meat & Seafood,Meat & Seafood Category,LA_Venice,257,230,4,4.491888909193028,0,10,4
+2022-10-07,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,457,727,3,4.7103574739942635,0,10,4
+2022-10-07,Dairy,Dairy Category,NYC_Chelsea,153,951,2,0.5413867322748334,0,10,4
+2022-10-07,Grocery,Grocery Category,SF_Noe_Valley,338,497,1,1.3047021914959798,0,10,4
+2022-10-07,Grocery,Grocery Category,CHI_Lincoln_Park,244,500,4,3.057388715009622,0,10,4
+2022-10-08,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,414,662,2,4.577444544733493,1,10,5
+2022-10-08,Dairy,Dairy Category,SF_Noe_Valley,366,915,3,3.074018896441324,1,10,5
+2022-10-08,Dairy,Dairy Category,LA_Venice,66,271,4,2.6147503129592433,1,10,5
+2022-10-08,Bakery,Bakery Category,NYC_Chelsea,429,844,1,4.677433531644764,1,10,5
+2022-10-08,Bakery,Bakery Category,LA_Venice,148,799,1,0.8390581520275769,1,10,5
+2022-10-09,Produce,Produce Category,SF_Noe_Valley,372,971,2,0.9372942219684584,1,10,6
+2022-10-09,Produce,Produce Category,CHI_Lincoln_Park,499,738,3,1.8288076478852244,1,10,6
+2022-10-09,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,442,910,2,2.1177101804888983,1,10,6
+2022-10-09,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,404,917,1,3.2518116988955623,1,10,6
+2022-10-09,Bakery,Bakery Category,CHI_Lincoln_Park,192,191,2,0.9229187292839105,1,10,6
+2022-10-10,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,103,543,1,2.8500946702466194,0,10,0
+2022-10-10,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,157,104,3,0.884063592471956,0,10,0
+2022-10-10,Dairy,Dairy Category,LA_Venice,318,469,4,3.7156779688097843,0,10,0
+2022-10-10,Bakery,Bakery Category,LA_Venice,395,840,2,4.831917866050663,0,10,0
+2022-10-10,Bakery,Bakery Category,CHI_Lincoln_Park,442,740,2,4.618461774319162,0,10,0
+2022-10-11,Produce,Produce Category,NYC_Chelsea,434,371,1,3.820536125130958,0,10,1
+2022-10-11,Meat & Seafood,Meat & Seafood Category,LA_Venice,234,384,2,0.9130957961604884,0,10,1
+2022-10-11,Dairy,Dairy Category,SF_Noe_Valley,253,317,2,2.7122714380257458,0,10,1
+2022-10-12,Produce,Produce Category,NYC_Chelsea,374,615,4,0.8175593633019342,0,10,2
+2022-10-12,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,201,789,3,3.3947969829905893,0,10,2
+2022-10-12,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,372,676,1,3.431681473360046,0,10,2
+2022-10-13,Produce,Produce Category,CHI_Lincoln_Park,425,519,1,4.115664186731818,0,10,3
+2022-10-13,Meat & Seafood,Meat & Seafood Category,LA_Venice,241,838,1,3.792414898848381,0,10,3
+2022-10-13,Dairy,Dairy Category,LA_Venice,273,136,4,2.4304731231875825,0,10,3
+2022-10-13,Dairy,Dairy Category,CHI_Lincoln_Park,266,966,1,2.1997799877933266,0,10,3
+2022-10-13,Grocery,Grocery Category,LA_Venice,452,175,1,1.936911369156867,0,10,3
+2022-10-13,Grocery,Grocery Category,CHI_Lincoln_Park,433,663,3,2.7186154599731225,0,10,3
+2022-10-14,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,193,668,3,0.9104274637191067,0,10,4
+2022-10-14,Dairy,Dairy Category,LA_Venice,284,942,2,4.858933747883607,0,10,4
+2022-10-14,Bakery,Bakery Category,NYC_Chelsea,450,352,2,0.8784806275174885,0,10,4
+2022-10-14,Bakery,Bakery Category,SF_Noe_Valley,219,492,2,4.513536089495495,0,10,4
+2022-10-14,Grocery,Grocery Category,LA_Venice,391,599,1,4.762618598227364,0,10,4
+2022-10-14,Grocery,Grocery Category,CHI_Lincoln_Park,181,903,2,3.6868153801243992,0,10,4
+2022-10-15,Produce,Produce Category,LA_Venice,251,957,3,1.000388670377681,1,10,5
+2022-10-15,Dairy,Dairy Category,LA_Venice,397,289,1,2.1869176078566683,1,10,5
+2022-10-15,Bakery,Bakery Category,NYC_Chelsea,471,216,2,4.109491620620304,1,10,5
+2022-10-15,Bakery,Bakery Category,SF_Noe_Valley,222,928,3,4.51014401164132,1,10,5
+2022-10-15,Bakery,Bakery Category,CHI_Lincoln_Park,278,775,3,3.629350053979914,1,10,5
+2022-10-16,Produce,Produce Category,NYC_Chelsea,103,985,3,4.5552110472094505,1,10,6
+2022-10-16,Produce,Produce Category,CHI_Lincoln_Park,407,507,4,2.0104702915863344,1,10,6
+2022-10-16,Grocery,Grocery Category,CHI_Lincoln_Park,420,355,1,3.2603683817110545,1,10,6
+2022-10-17,Produce,Produce Category,SF_Noe_Valley,291,350,1,1.2417541751165042,0,10,0
+2022-10-17,Produce,Produce Category,CHI_Lincoln_Park,195,323,3,1.1768760099658768,0,10,0
+2022-10-17,Meat & Seafood,Meat & Seafood Category,LA_Venice,332,788,1,0.785803233155006,0,10,0
+2022-10-17,Bakery,Bakery Category,SF_Noe_Valley,308,536,3,3.9604433683122973,0,10,0
+2022-10-17,Bakery,Bakery Category,LA_Venice,132,244,1,2.527448608895421,0,10,0
+2022-10-17,Grocery,Grocery Category,NYC_Chelsea,254,871,2,4.451993003656366,0,10,0
+2022-10-17,Grocery,Grocery Category,SF_Noe_Valley,83,447,3,1.0110091648983306,0,10,0
+2022-10-18,Produce,Produce Category,NYC_Chelsea,428,405,4,4.173735808458781,0,10,1
+2022-10-18,Produce,Produce Category,SF_Noe_Valley,271,862,1,3.1548015371193623,0,10,1
+2022-10-18,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,447,677,3,1.4583387267900982,0,10,1
+2022-10-18,Dairy,Dairy Category,CHI_Lincoln_Park,357,348,2,2.52909701337247,0,10,1
+2022-10-18,Bakery,Bakery Category,NYC_Chelsea,79,858,2,4.380636689360353,0,10,1
+2022-10-18,Bakery,Bakery Category,SF_Noe_Valley,437,237,4,4.289411367584194,0,10,1
+2022-10-18,Bakery,Bakery Category,LA_Venice,389,168,2,3.2936255798994107,0,10,1
+2022-10-19,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,204,192,4,1.2754394204073343,0,10,2
+2022-10-20,Produce,Produce Category,SF_Noe_Valley,170,313,3,2.8024565609626757,0,10,3
+2022-10-20,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,57,724,3,1.3303445871036979,0,10,3
+2022-10-20,Bakery,Bakery Category,NYC_Chelsea,63,798,4,1.0990261786436522,0,10,3
+2022-10-20,Bakery,Bakery Category,LA_Venice,412,850,4,0.9822740510289922,0,10,3
+2022-10-21,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,261,124,4,2.0979693647568713,0,10,4
+2022-10-21,Dairy,Dairy Category,SF_Noe_Valley,160,875,4,2.442467958033557,0,10,4
+2022-10-21,Grocery,Grocery Category,NYC_Chelsea,278,476,1,0.5339046341033363,0,10,4
+2022-10-22,Produce,Produce Category,NYC_Chelsea,495,929,2,1.2801811788263966,1,10,5
+2022-10-22,Produce,Produce Category,SF_Noe_Valley,296,998,3,0.5820911664276247,1,10,5
+2022-10-22,Produce,Produce Category,CHI_Lincoln_Park,55,421,4,4.86261694973916,1,10,5
+2022-10-22,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,183,217,1,2.70836950666453,1,10,5
+2022-10-22,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,111,540,2,3.005433018562684,1,10,5
+2022-10-22,Dairy,Dairy Category,NYC_Chelsea,375,509,2,3.6992861547653675,1,10,5
+2022-10-22,Dairy,Dairy Category,LA_Venice,189,658,1,3.2477901909873466,1,10,5
+2022-10-23,Produce,Produce Category,NYC_Chelsea,62,267,2,0.8954065005919556,1,10,6
+2022-10-23,Meat & Seafood,Meat & Seafood Category,LA_Venice,144,916,1,4.237787335044781,1,10,6
+2022-10-23,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,383,984,4,4.959182644058258,1,10,6
+2022-10-23,Dairy,Dairy Category,LA_Venice,369,671,4,4.016815167881367,1,10,6
+2022-10-23,Dairy,Dairy Category,CHI_Lincoln_Park,278,369,4,1.2364517428956703,1,10,6
+2022-10-23,Bakery,Bakery Category,SF_Noe_Valley,428,177,2,4.585397587081322,1,10,6
+2022-10-23,Grocery,Grocery Category,LA_Venice,337,790,1,1.8562004337386393,1,10,6
+2022-10-23,Grocery,Grocery Category,CHI_Lincoln_Park,192,764,1,4.548085579735558,1,10,6
+2022-10-24,Produce,Produce Category,LA_Venice,484,138,3,2.4418766441139916,0,10,0
+2022-10-24,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,91,547,4,4.073113351716332,0,10,0
+2022-10-24,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,469,256,2,3.885814040174702,0,10,0
+2022-10-24,Dairy,Dairy Category,NYC_Chelsea,460,388,2,1.4204506692625847,0,10,0
+2022-10-24,Dairy,Dairy Category,SF_Noe_Valley,54,734,2,2.0393678692215835,0,10,0
+2022-10-24,Dairy,Dairy Category,LA_Venice,208,914,4,2.5565009867675523,0,10,0
+2022-10-24,Grocery,Grocery Category,NYC_Chelsea,460,194,3,3.62276800010195,0,10,0
+2022-10-25,Produce,Produce Category,SF_Noe_Valley,87,233,4,2.4061858808921732,0,10,1
+2022-10-25,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,153,309,1,1.65206989334148,0,10,1
+2022-10-25,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,220,559,4,3.0430993261514403,0,10,1
+2022-10-25,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,377,226,2,3.970610008338821,0,10,1
+2022-10-25,Bakery,Bakery Category,NYC_Chelsea,316,506,1,1.0095712062833986,0,10,1
+2022-10-25,Bakery,Bakery Category,SF_Noe_Valley,159,519,2,4.268708550511215,0,10,1
+2022-10-25,Grocery,Grocery Category,CHI_Lincoln_Park,251,535,1,0.5208441035207129,0,10,1
+2022-10-26,Produce,Produce Category,CHI_Lincoln_Park,435,309,3,3.818755616493868,0,10,2
+2022-10-26,Dairy,Dairy Category,CHI_Lincoln_Park,226,384,3,1.7491422768323814,0,10,2
+2022-10-26,Bakery,Bakery Category,CHI_Lincoln_Park,410,788,4,2.365808556771607,0,10,2
+2022-10-26,Grocery,Grocery Category,SF_Noe_Valley,98,426,1,1.894716168208749,0,10,2
+2022-10-27,Produce,Produce Category,NYC_Chelsea,367,131,2,1.3580947429864996,0,10,3
+2022-10-27,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,224,293,2,2.4834323612220266,0,10,3
+2022-10-27,Dairy,Dairy Category,LA_Venice,408,742,4,1.7253583462413475,0,10,3
+2022-10-27,Dairy,Dairy Category,CHI_Lincoln_Park,211,479,1,0.6142386004715519,0,10,3
+2022-10-27,Bakery,Bakery Category,SF_Noe_Valley,398,107,1,2.9827516786670287,0,10,3
+2022-10-28,Produce,Produce Category,NYC_Chelsea,141,363,2,4.123917353110572,0,10,4
+2022-10-28,Produce,Produce Category,SF_Noe_Valley,337,219,2,4.235989390551462,0,10,4
+2022-10-28,Meat & Seafood,Meat & Seafood Category,LA_Venice,56,429,3,3.8115707593820103,0,10,4
+2022-10-28,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,161,480,3,3.1236870243636146,0,10,4
+2022-10-28,Dairy,Dairy Category,SF_Noe_Valley,352,808,4,2.0113963571742577,0,10,4
+2022-10-28,Dairy,Dairy Category,LA_Venice,244,570,3,1.7062863837029432,0,10,4
+2022-10-28,Grocery,Grocery Category,NYC_Chelsea,391,463,4,1.0140706666417858,0,10,4
+2022-10-28,Grocery,Grocery Category,LA_Venice,264,227,4,2.4134607701115502,0,10,4
+2022-10-29,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,53,765,2,4.552575355563736,1,10,5
+2022-10-29,Dairy,Dairy Category,NYC_Chelsea,177,952,2,3.094324139814141,1,10,5
+2022-10-29,Bakery,Bakery Category,NYC_Chelsea,136,728,2,1.1300834239720206,1,10,5
+2022-10-29,Bakery,Bakery Category,CHI_Lincoln_Park,147,367,1,3.49266503545815,1,10,5
+2022-10-29,Grocery,Grocery Category,SF_Noe_Valley,459,575,2,2.835129673772769,1,10,5
+2022-10-30,Produce,Produce Category,NYC_Chelsea,356,792,4,3.9694366649096535,1,10,6
+2022-10-30,Produce,Produce Category,LA_Venice,60,611,4,3.7357065733291046,1,10,6
+2022-10-30,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,118,411,1,1.714600500764877,1,10,6
+2022-10-30,Dairy,Dairy Category,LA_Venice,386,606,1,1.196024633974563,1,10,6
+2022-10-30,Grocery,Grocery Category,NYC_Chelsea,153,141,1,1.6088091495759806,1,10,6
+2022-10-30,Grocery,Grocery Category,SF_Noe_Valley,278,207,4,4.854647246931889,1,10,6
+2022-10-31,Produce,Produce Category,SF_Noe_Valley,354,116,2,3.607521046005383,0,10,0
+2022-10-31,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,388,875,3,4.129525165376524,0,10,0
+2022-10-31,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,74,565,1,3.409992136027235,0,10,0
+2022-10-31,Bakery,Bakery Category,SF_Noe_Valley,331,185,2,1.9078468542751439,0,10,0
+2022-10-31,Bakery,Bakery Category,CHI_Lincoln_Park,420,787,4,4.869762103244155,0,10,0
+2022-10-31,Grocery,Grocery Category,NYC_Chelsea,131,322,2,0.7469717659091372,0,10,0
+2022-11-01,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,220,282,3,0.7941035335952407,0,11,1
+2022-11-01,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,458,496,2,2.8407564944542933,0,11,1
+2022-11-01,Dairy,Dairy Category,SF_Noe_Valley,499,410,3,4.415444932554184,0,11,1
+2022-11-01,Dairy,Dairy Category,CHI_Lincoln_Park,190,373,4,4.696654592413638,0,11,1
+2022-11-02,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,226,102,1,2.0957997093834946,0,11,2
+2022-11-02,Dairy,Dairy Category,LA_Venice,122,498,1,2.2623356324316024,0,11,2
+2022-11-02,Bakery,Bakery Category,NYC_Chelsea,342,160,1,0.9023495104051678,0,11,2
+2022-11-02,Bakery,Bakery Category,LA_Venice,351,443,3,4.566757852288717,0,11,2
+2022-11-02,Bakery,Bakery Category,CHI_Lincoln_Park,248,663,4,1.5425226562254952,0,11,2
+2022-11-02,Grocery,Grocery Category,NYC_Chelsea,112,409,1,4.237891329877811,0,11,2
+2022-11-03,Produce,Produce Category,SF_Noe_Valley,425,873,1,0.7602920445352837,0,11,3
+2022-11-03,Produce,Produce Category,LA_Venice,226,620,3,3.187733325936535,0,11,3
+2022-11-03,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,52,259,3,1.509982573264973,0,11,3
+2022-11-03,Bakery,Bakery Category,SF_Noe_Valley,372,734,4,2.6450457274866577,0,11,3
+2022-11-03,Bakery,Bakery Category,CHI_Lincoln_Park,219,620,3,3.4485889128755978,0,11,3
+2022-11-04,Produce,Produce Category,SF_Noe_Valley,139,553,1,1.490824408774151,0,11,4
+2022-11-04,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,89,400,4,2.822355591996275,0,11,4
+2022-11-04,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,372,667,4,3.551072686515786,0,11,4
+2022-11-04,Dairy,Dairy Category,NYC_Chelsea,196,435,4,1.6037848951490055,0,11,4
+2022-11-04,Bakery,Bakery Category,SF_Noe_Valley,405,290,3,3.8872248780093854,0,11,4
+2022-11-04,Bakery,Bakery Category,CHI_Lincoln_Park,363,860,3,4.455821661026592,0,11,4
+2022-11-04,Grocery,Grocery Category,SF_Noe_Valley,486,769,3,1.2234195322173869,0,11,4
+2022-11-04,Grocery,Grocery Category,LA_Venice,255,688,1,1.664097488140586,0,11,4
+2022-11-05,Meat & Seafood,Meat & Seafood Category,LA_Venice,375,566,2,0.5829247343219786,1,11,5
+2022-11-05,Dairy,Dairy Category,NYC_Chelsea,461,671,3,4.694126474795079,1,11,5
+2022-11-05,Dairy,Dairy Category,LA_Venice,401,583,2,4.762840497153521,1,11,5
+2022-11-05,Bakery,Bakery Category,NYC_Chelsea,450,985,1,0.7606420725145924,1,11,5
+2022-11-05,Bakery,Bakery Category,LA_Venice,319,803,3,4.8599503487856115,1,11,5
+2022-11-05,Bakery,Bakery Category,CHI_Lincoln_Park,276,480,4,0.6106411240646068,1,11,5
+2022-11-05,Grocery,Grocery Category,CHI_Lincoln_Park,107,637,2,1.7313199982674965,1,11,5
+2022-11-06,Produce,Produce Category,NYC_Chelsea,148,496,1,1.2363071953625113,1,11,6
+2022-11-06,Produce,Produce Category,SF_Noe_Valley,206,174,4,4.279762241026123,1,11,6
+2022-11-06,Produce,Produce Category,LA_Venice,133,121,3,1.729667871491942,1,11,6
+2022-11-06,Produce,Produce Category,CHI_Lincoln_Park,285,539,4,3.790715301381585,1,11,6
+2022-11-06,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,406,183,2,3.9204233529714374,1,11,6
+2022-11-06,Dairy,Dairy Category,NYC_Chelsea,211,262,4,4.40655266070739,1,11,6
+2022-11-06,Dairy,Dairy Category,SF_Noe_Valley,323,370,4,2.629444580112007,1,11,6
+2022-11-06,Dairy,Dairy Category,LA_Venice,479,756,1,3.994685837562838,1,11,6
+2022-11-06,Dairy,Dairy Category,CHI_Lincoln_Park,223,661,4,0.5803785161524372,1,11,6
+2022-11-06,Bakery,Bakery Category,NYC_Chelsea,477,792,4,4.643815315170591,1,11,6
+2022-11-06,Bakery,Bakery Category,LA_Venice,202,833,2,3.192472693050921,1,11,6
+2022-11-07,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,258,171,1,0.826010995075515,0,11,0
+2022-11-07,Dairy,Dairy Category,LA_Venice,151,524,4,3.7592838865688534,0,11,0
+2022-11-07,Dairy,Dairy Category,CHI_Lincoln_Park,90,500,4,4.939981669702159,0,11,0
+2022-11-07,Bakery,Bakery Category,CHI_Lincoln_Park,251,341,4,0.8258732246585367,0,11,0
+2022-11-07,Grocery,Grocery Category,SF_Noe_Valley,463,688,4,2.1101060791772213,0,11,0
+2022-11-07,Grocery,Grocery Category,CHI_Lincoln_Park,139,785,2,4.102640145990873,0,11,0
+2022-11-08,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,439,108,2,3.2747206183811333,0,11,1
+2022-11-08,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,377,789,4,4.107776373814064,0,11,1
+2022-11-08,Dairy,Dairy Category,SF_Noe_Valley,56,558,4,2.988506536663813,0,11,1
+2022-11-08,Dairy,Dairy Category,CHI_Lincoln_Park,432,614,3,2.8688119742125093,0,11,1
+2022-11-08,Bakery,Bakery Category,NYC_Chelsea,61,186,4,1.2179510605093475,0,11,1
+2022-11-08,Bakery,Bakery Category,SF_Noe_Valley,171,246,3,2.615821667134993,0,11,1
+2022-11-08,Bakery,Bakery Category,LA_Venice,270,730,1,3.4641849897539423,0,11,1
+2022-11-08,Grocery,Grocery Category,SF_Noe_Valley,199,648,4,2.941153860737154,0,11,1
+2022-11-09,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,354,961,1,3.772260813948386,0,11,2
+2022-11-09,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,453,904,4,3.809076343995887,0,11,2
+2022-11-09,Meat & Seafood,Meat & Seafood Category,LA_Venice,493,251,2,4.401641732551019,0,11,2
+2022-11-09,Dairy,Dairy Category,SF_Noe_Valley,277,677,3,4.553158388050663,0,11,2
+2022-11-09,Bakery,Bakery Category,SF_Noe_Valley,317,742,1,2.5961576315911183,0,11,2
+2022-11-09,Bakery,Bakery Category,LA_Venice,274,966,2,3.7212123410693985,0,11,2
+2022-11-09,Bakery,Bakery Category,CHI_Lincoln_Park,136,397,4,2.1778188673502052,0,11,2
+2022-11-10,Dairy,Dairy Category,SF_Noe_Valley,310,548,4,3.194212910450484,0,11,3
+2022-11-10,Bakery,Bakery Category,SF_Noe_Valley,167,369,4,2.8389827685020794,0,11,3
+2022-11-10,Bakery,Bakery Category,CHI_Lincoln_Park,306,232,4,3.145479669996741,0,11,3
+2022-11-10,Grocery,Grocery Category,NYC_Chelsea,362,675,2,1.2542864732974295,0,11,3
+2022-11-10,Grocery,Grocery Category,LA_Venice,253,264,1,4.298767020361387,0,11,3
+2022-11-10,Grocery,Grocery Category,CHI_Lincoln_Park,205,466,3,3.011631123172383,0,11,3
+2022-11-11,Produce,Produce Category,LA_Venice,342,119,2,0.6770459330082934,0,11,4
+2022-11-11,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,374,260,1,3.131018151991649,0,11,4
+2022-11-11,Bakery,Bakery Category,NYC_Chelsea,88,322,4,2.820182128606626,0,11,4
+2022-11-11,Grocery,Grocery Category,LA_Venice,283,991,3,1.230718525980444,0,11,4
+2022-11-12,Produce,Produce Category,NYC_Chelsea,206,451,2,4.406640144698774,1,11,5
+2022-11-12,Produce,Produce Category,CHI_Lincoln_Park,267,526,2,0.57882195887928,1,11,5
+2022-11-12,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,352,843,1,0.6367417686357659,1,11,5
+2022-11-12,Meat & Seafood,Meat & Seafood Category,LA_Venice,351,900,1,1.4705381857897273,1,11,5
+2022-11-12,Bakery,Bakery Category,NYC_Chelsea,112,684,1,2.3310858232529177,1,11,5
+2022-11-12,Bakery,Bakery Category,SF_Noe_Valley,122,856,1,1.7990851798878715,1,11,5
+2022-11-12,Grocery,Grocery Category,NYC_Chelsea,181,713,3,4.135306738735664,1,11,5
+2022-11-12,Grocery,Grocery Category,SF_Noe_Valley,328,950,1,4.180253972787597,1,11,5
+2022-11-13,Grocery,Grocery Category,NYC_Chelsea,353,549,2,4.614064321781615,1,11,6
+2022-11-13,Grocery,Grocery Category,SF_Noe_Valley,202,111,1,2.294702514036052,1,11,6
+2022-11-14,Produce,Produce Category,SF_Noe_Valley,375,913,2,3.719709081946735,0,11,0
+2022-11-14,Produce,Produce Category,CHI_Lincoln_Park,156,435,3,0.8207612152482375,0,11,0
+2022-11-14,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,341,814,3,0.7712032563030238,0,11,0
+2022-11-14,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,324,901,2,2.6864229163384654,0,11,0
+2022-11-14,Dairy,Dairy Category,SF_Noe_Valley,340,747,4,0.9033185261972395,0,11,0
+2022-11-14,Dairy,Dairy Category,LA_Venice,51,688,4,4.204283070180471,0,11,0
+2022-11-14,Bakery,Bakery Category,SF_Noe_Valley,88,258,3,1.8287523014913953,0,11,0
+2022-11-14,Bakery,Bakery Category,LA_Venice,494,397,4,4.8331709385691095,0,11,0
+2022-11-14,Grocery,Grocery Category,NYC_Chelsea,434,271,4,2.8692463736920146,0,11,0
+2022-11-15,Produce,Produce Category,LA_Venice,320,109,4,2.349628114130171,0,11,1
+2022-11-15,Produce,Produce Category,CHI_Lincoln_Park,121,251,4,3.0048667607152275,0,11,1
+2022-11-15,Meat & Seafood,Meat & Seafood Category,LA_Venice,149,159,3,3.5039745468116172,0,11,1
+2022-11-15,Bakery,Bakery Category,NYC_Chelsea,275,772,3,2.909111458291974,0,11,1
+2022-11-16,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,329,799,2,0.9684934222287485,0,11,2
+2022-11-16,Dairy,Dairy Category,NYC_Chelsea,91,387,3,3.9768022735222215,0,11,2
+2022-11-16,Grocery,Grocery Category,SF_Noe_Valley,493,616,4,1.5517043685969485,0,11,2
+2022-11-16,Grocery,Grocery Category,CHI_Lincoln_Park,99,166,2,1.5387313511930543,0,11,2
+2022-11-17,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,335,215,4,3.112137530225036,0,11,3
+2022-11-17,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,336,402,1,1.267150721782629,0,11,3
+2022-11-17,Dairy,Dairy Category,LA_Venice,61,756,4,3.492102760192481,0,11,3
+2022-11-17,Dairy,Dairy Category,CHI_Lincoln_Park,193,641,1,1.0392305090794085,0,11,3
+2022-11-17,Bakery,Bakery Category,NYC_Chelsea,167,616,4,4.671504355659329,0,11,3
+2022-11-17,Bakery,Bakery Category,LA_Venice,198,183,2,1.6567126989443595,0,11,3
+2022-11-17,Bakery,Bakery Category,CHI_Lincoln_Park,337,260,1,4.217304336136378,0,11,3
+2022-11-17,Grocery,Grocery Category,NYC_Chelsea,275,608,2,1.0294206281310139,0,11,3
+2022-11-18,Produce,Produce Category,CHI_Lincoln_Park,239,506,2,3.202674500122778,0,11,4
+2022-11-18,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,476,242,2,3.0495891297713835,0,11,4
+2022-11-18,Bakery,Bakery Category,SF_Noe_Valley,116,947,3,1.8710561259411835,0,11,4
+2022-11-18,Grocery,Grocery Category,CHI_Lincoln_Park,305,365,1,3.0882350772348124,0,11,4
+2022-11-19,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,287,480,4,2.761547344085491,1,11,5
+2022-11-19,Dairy,Dairy Category,CHI_Lincoln_Park,493,111,4,1.0491577345597776,1,11,5
+2022-11-19,Bakery,Bakery Category,SF_Noe_Valley,69,757,1,0.9754910791778476,1,11,5
+2022-11-20,Produce,Produce Category,NYC_Chelsea,315,444,2,2.6807071415848913,1,11,6
+2022-11-20,Produce,Produce Category,SF_Noe_Valley,464,155,3,4.926555163685361,1,11,6
+2022-11-20,Dairy,Dairy Category,LA_Venice,322,200,3,1.4936118340353761,1,11,6
+2022-11-20,Bakery,Bakery Category,SF_Noe_Valley,227,162,1,4.4897189685821,1,11,6
+2022-11-20,Grocery,Grocery Category,LA_Venice,278,697,1,0.5496406899289125,1,11,6
+2022-11-21,Produce,Produce Category,CHI_Lincoln_Park,363,987,3,3.285266868534747,0,11,0
+2022-11-21,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,262,792,2,0.7907750592983877,0,11,0
+2022-11-21,Bakery,Bakery Category,LA_Venice,161,863,2,2.642081582159449,0,11,0
+2022-11-21,Grocery,Grocery Category,LA_Venice,446,724,1,0.9596728834589214,0,11,0
+2022-11-22,Produce,Produce Category,NYC_Chelsea,179,671,4,1.6460177992072302,0,11,1
+2022-11-22,Produce,Produce Category,SF_Noe_Valley,363,331,1,4.213094881679167,0,11,1
+2022-11-22,Meat & Seafood,Meat & Seafood Category,LA_Venice,392,955,1,1.1757605036766874,0,11,1
+2022-11-22,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,498,186,1,0.7152386917734745,0,11,1
+2022-11-22,Dairy,Dairy Category,SF_Noe_Valley,434,720,3,0.8206552749436637,0,11,1
+2022-11-22,Dairy,Dairy Category,CHI_Lincoln_Park,326,331,2,2.578761215019301,0,11,1
+2022-11-22,Bakery,Bakery Category,NYC_Chelsea,485,498,3,3.476167749816865,0,11,1
+2022-11-22,Grocery,Grocery Category,SF_Noe_Valley,369,237,2,0.8717794855667091,0,11,1
+2022-11-22,Grocery,Grocery Category,CHI_Lincoln_Park,185,867,4,3.310986059844187,0,11,1
+2022-11-23,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,218,316,2,2.6521488255916568,0,11,2
+2022-11-23,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,315,248,4,1.8176991651543413,0,11,2
+2022-11-23,Meat & Seafood,Meat & Seafood Category,LA_Venice,423,880,1,4.641337315487335,0,11,2
+2022-11-23,Grocery,Grocery Category,CHI_Lincoln_Park,221,387,3,4.491162050941712,0,11,2
+2022-11-24,Produce,Produce Category,LA_Venice,168,138,1,1.6629422913131815,0,11,3
+2022-11-24,Meat & Seafood,Meat & Seafood Category,LA_Venice,351,459,2,3.9940135092487608,0,11,3
+2022-11-24,Dairy,Dairy Category,LA_Venice,71,959,1,3.7757622952883443,0,11,3
+2022-11-24,Bakery,Bakery Category,LA_Venice,456,187,4,3.7976069514481274,0,11,3
+2022-11-25,Produce,Produce Category,SF_Noe_Valley,416,380,4,2.452102305146473,0,11,4
+2022-11-25,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,413,360,3,4.963144781072136,0,11,4
+2022-11-25,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,59,504,4,4.168032730161656,0,11,4
+2022-11-25,Bakery,Bakery Category,SF_Noe_Valley,363,665,4,3.8558020222905447,0,11,4
+2022-11-25,Bakery,Bakery Category,CHI_Lincoln_Park,426,119,3,3.9031909605115365,0,11,4
+2022-11-25,Grocery,Grocery Category,NYC_Chelsea,119,923,3,4.983504519322613,0,11,4
+2022-11-25,Grocery,Grocery Category,CHI_Lincoln_Park,73,326,2,2.261865641800232,0,11,4
+2022-11-26,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,69,372,3,4.4341811177460695,1,11,5
+2022-11-26,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,278,435,2,3.026680645817857,1,11,5
+2022-11-26,Dairy,Dairy Category,CHI_Lincoln_Park,208,287,4,1.9494860190313348,1,11,5
+2022-11-26,Bakery,Bakery Category,CHI_Lincoln_Park,363,216,3,4.213088004497518,1,11,5
+2022-11-26,Grocery,Grocery Category,CHI_Lincoln_Park,195,930,4,0.781440021038158,1,11,5
+2022-11-27,Produce,Produce Category,NYC_Chelsea,352,924,4,1.84749579721349,1,11,6
+2022-11-27,Meat & Seafood,Meat & Seafood Category,LA_Venice,173,174,3,3.0734252205223394,1,11,6
+2022-11-27,Bakery,Bakery Category,SF_Noe_Valley,247,948,3,1.8442650811494787,1,11,6
+2022-11-27,Bakery,Bakery Category,LA_Venice,475,646,2,1.5149359846657968,1,11,6
+2022-11-27,Grocery,Grocery Category,CHI_Lincoln_Park,405,681,2,0.8627068119070609,1,11,6
+2022-11-28,Produce,Produce Category,NYC_Chelsea,468,740,4,3.7827870289357852,0,11,0
+2022-11-28,Produce,Produce Category,SF_Noe_Valley,231,785,4,1.09107233665208,0,11,0
+2022-11-28,Produce,Produce Category,CHI_Lincoln_Park,85,824,2,1.772355603104429,0,11,0
+2022-11-28,Dairy,Dairy Category,NYC_Chelsea,443,947,4,3.9172921808808367,0,11,0
+2022-11-28,Dairy,Dairy Category,LA_Venice,93,940,1,4.3389033053164265,0,11,0
+2022-11-28,Grocery,Grocery Category,NYC_Chelsea,119,738,3,0.5982052854897028,0,11,0
+2022-11-28,Grocery,Grocery Category,LA_Venice,192,298,1,0.735160456787107,0,11,0
+2022-11-29,Produce,Produce Category,SF_Noe_Valley,363,120,2,1.1523428257091766,0,11,1
+2022-11-29,Produce,Produce Category,LA_Venice,470,404,3,1.8891443451793786,0,11,1
+2022-11-29,Produce,Produce Category,CHI_Lincoln_Park,445,544,1,0.5991582213387688,0,11,1
+2022-11-29,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,432,589,1,4.32777226028512,0,11,1
+2022-11-29,Dairy,Dairy Category,NYC_Chelsea,491,142,1,4.062649948040082,0,11,1
+2022-11-29,Bakery,Bakery Category,NYC_Chelsea,379,952,1,4.75564166150127,0,11,1
+2022-11-29,Bakery,Bakery Category,SF_Noe_Valley,115,941,2,4.378941087819225,0,11,1
+2022-11-29,Bakery,Bakery Category,CHI_Lincoln_Park,125,443,3,2.8062619194664924,0,11,1
+2022-11-29,Grocery,Grocery Category,NYC_Chelsea,187,710,4,4.072953723656028,0,11,1
+2022-11-29,Grocery,Grocery Category,CHI_Lincoln_Park,203,482,4,3.905381775598858,0,11,1
+2022-11-30,Produce,Produce Category,LA_Venice,263,727,4,1.6497200509502212,0,11,2
+2022-11-30,Produce,Produce Category,CHI_Lincoln_Park,217,157,4,3.974056143394957,0,11,2
+2022-11-30,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,146,653,4,4.0925488470094775,0,11,2
+2022-11-30,Grocery,Grocery Category,SF_Noe_Valley,134,171,3,3.392035959525906,0,11,2
+2022-11-30,Grocery,Grocery Category,CHI_Lincoln_Park,259,653,4,3.631546031759611,0,11,2
+2022-12-01,Produce,Produce Category,NYC_Chelsea,312,947,3,2.1339533148530467,0,12,3
+2022-12-01,Produce,Produce Category,SF_Noe_Valley,412,139,2,1.133201876219413,0,12,3
+2022-12-01,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,429,787,3,1.9092289766777706,0,12,3
+2022-12-01,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,415,857,3,4.470873657833025,0,12,3
+2022-12-01,Meat & Seafood,Meat & Seafood Category,LA_Venice,351,986,4,4.947871952354344,0,12,3
+2022-12-01,Dairy,Dairy Category,SF_Noe_Valley,211,359,4,4.468674912370898,0,12,3
+2022-12-01,Bakery,Bakery Category,CHI_Lincoln_Park,467,765,2,2.205622067985938,0,12,3
+2022-12-01,Grocery,Grocery Category,NYC_Chelsea,314,471,2,2.9335718974349496,0,12,3
+2022-12-01,Grocery,Grocery Category,SF_Noe_Valley,477,476,3,4.55583204848592,0,12,3
+2022-12-02,Produce,Produce Category,SF_Noe_Valley,125,575,2,1.2819271691108471,0,12,4
+2022-12-02,Produce,Produce Category,LA_Venice,297,317,2,3.73584851309235,0,12,4
+2022-12-02,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,356,437,2,3.2619983846706457,0,12,4
+2022-12-02,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,157,750,2,4.905972221068195,0,12,4
+2022-12-02,Bakery,Bakery Category,CHI_Lincoln_Park,173,100,4,0.8270189222450732,0,12,4
+2022-12-02,Grocery,Grocery Category,LA_Venice,352,905,3,1.4568996936699325,0,12,4
+2022-12-03,Produce,Produce Category,LA_Venice,450,650,1,4.048013044639844,1,12,5
+2022-12-03,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,300,318,3,1.2608648166019663,1,12,5
+2022-12-03,Bakery,Bakery Category,NYC_Chelsea,133,980,1,2.396498187106613,1,12,5
+2022-12-03,Bakery,Bakery Category,LA_Venice,199,182,2,4.598465727397619,1,12,5
+2022-12-03,Bakery,Bakery Category,CHI_Lincoln_Park,250,383,4,4.9180941196728245,1,12,5
+2022-12-04,Dairy,Dairy Category,SF_Noe_Valley,358,838,1,1.849636001781431,1,12,6
+2022-12-04,Dairy,Dairy Category,LA_Venice,245,167,4,4.335187434760316,1,12,6
+2022-12-04,Bakery,Bakery Category,SF_Noe_Valley,176,354,3,2.890924342556266,1,12,6
+2022-12-04,Bakery,Bakery Category,LA_Venice,481,769,4,3.1226307578757035,1,12,6
+2022-12-04,Bakery,Bakery Category,CHI_Lincoln_Park,99,568,3,3.4647128156303175,1,12,6
+2022-12-04,Grocery,Grocery Category,CHI_Lincoln_Park,250,544,1,3.511401183221353,1,12,6
+2022-12-05,Produce,Produce Category,NYC_Chelsea,265,579,1,0.6131388122477273,0,12,0
+2022-12-05,Produce,Produce Category,CHI_Lincoln_Park,223,658,3,3.208655439568092,0,12,0
+2022-12-05,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,142,505,4,4.76648744077149,0,12,0
+2022-12-05,Meat & Seafood,Meat & Seafood Category,LA_Venice,228,231,3,2.805636998956058,0,12,0
+2022-12-05,Dairy,Dairy Category,CHI_Lincoln_Park,211,446,3,4.92728140784947,0,12,0
+2022-12-05,Bakery,Bakery Category,LA_Venice,259,672,4,3.2183225468204864,0,12,0
+2022-12-05,Bakery,Bakery Category,CHI_Lincoln_Park,429,461,1,2.5270938574601822,0,12,0
+2022-12-06,Produce,Produce Category,CHI_Lincoln_Park,418,289,4,0.6652461312536951,0,12,1
+2022-12-06,Meat & Seafood,Meat & Seafood Category,LA_Venice,482,803,2,2.2855858118884242,0,12,1
+2022-12-06,Dairy,Dairy Category,SF_Noe_Valley,354,652,1,1.0122727706447063,0,12,1
+2022-12-06,Bakery,Bakery Category,NYC_Chelsea,446,803,3,0.701841056106059,0,12,1
+2022-12-06,Bakery,Bakery Category,LA_Venice,94,100,4,2.398226803424741,0,12,1
+2022-12-06,Grocery,Grocery Category,NYC_Chelsea,158,367,1,1.8921772303825195,0,12,1
+2022-12-06,Grocery,Grocery Category,SF_Noe_Valley,152,349,1,0.5070429733616281,0,12,1
+2022-12-07,Dairy,Dairy Category,LA_Venice,274,431,2,1.9448649368917255,0,12,2
+2022-12-07,Dairy,Dairy Category,CHI_Lincoln_Park,307,896,1,3.4090254055607314,0,12,2
+2022-12-07,Bakery,Bakery Category,NYC_Chelsea,315,309,3,4.609791264093065,0,12,2
+2022-12-07,Bakery,Bakery Category,LA_Venice,133,553,3,3.8344156262356033,0,12,2
+2022-12-07,Grocery,Grocery Category,NYC_Chelsea,399,395,2,0.5526797482890683,0,12,2
+2022-12-08,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,343,895,1,3.6162177200115138,0,12,3
+2022-12-08,Dairy,Dairy Category,LA_Venice,237,463,2,2.229078290618216,0,12,3
+2022-12-08,Bakery,Bakery Category,SF_Noe_Valley,72,459,3,3.1198943596735123,0,12,3
+2022-12-08,Grocery,Grocery Category,NYC_Chelsea,466,778,2,1.2508709076443876,0,12,3
+2022-12-08,Grocery,Grocery Category,CHI_Lincoln_Park,242,658,4,2.0289597221800304,0,12,3
+2022-12-09,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,444,916,1,3.547042878807542,0,12,4
+2022-12-09,Dairy,Dairy Category,NYC_Chelsea,370,130,4,1.2531187991238257,0,12,4
+2022-12-09,Dairy,Dairy Category,SF_Noe_Valley,463,475,4,2.7745480305970247,0,12,4
+2022-12-09,Dairy,Dairy Category,LA_Venice,309,765,3,1.43988831817583,0,12,4
+2022-12-09,Dairy,Dairy Category,CHI_Lincoln_Park,283,662,2,1.909428174815783,0,12,4
+2022-12-09,Bakery,Bakery Category,CHI_Lincoln_Park,86,269,4,1.9128502281980877,0,12,4
+2022-12-09,Grocery,Grocery Category,NYC_Chelsea,245,885,4,2.9542150454823615,0,12,4
+2022-12-10,Produce,Produce Category,SF_Noe_Valley,327,167,1,1.193652694303192,1,12,5
+2022-12-10,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,428,442,3,2.1028354120291737,1,12,5
+2022-12-10,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,158,662,2,0.7594141198956119,1,12,5
+2022-12-10,Dairy,Dairy Category,NYC_Chelsea,408,935,3,1.2435892269917144,1,12,5
+2022-12-10,Dairy,Dairy Category,LA_Venice,446,210,2,2.7000402430660313,1,12,5
+2022-12-10,Bakery,Bakery Category,NYC_Chelsea,301,949,4,1.9662040290400242,1,12,5
+2022-12-10,Bakery,Bakery Category,SF_Noe_Valley,324,264,3,2.2781198446894337,1,12,5
+2022-12-10,Grocery,Grocery Category,LA_Venice,166,965,3,2.090573332460521,1,12,5
+2022-12-11,Produce,Produce Category,SF_Noe_Valley,54,283,4,2.6005193475403456,1,12,6
+2022-12-11,Produce,Produce Category,CHI_Lincoln_Park,420,246,2,4.914443201732083,1,12,6
+2022-12-11,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,232,861,4,1.7860259998664159,1,12,6
+2022-12-11,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,448,814,4,2.7154646600053187,1,12,6
+2022-12-11,Dairy,Dairy Category,SF_Noe_Valley,268,181,4,4.223835149478363,1,12,6
+2022-12-11,Dairy,Dairy Category,LA_Venice,309,464,3,1.4021353198778126,1,12,6
+2022-12-11,Bakery,Bakery Category,NYC_Chelsea,386,436,1,1.842957105628445,1,12,6
+2022-12-11,Grocery,Grocery Category,SF_Noe_Valley,238,386,3,0.5860224249339381,1,12,6
+2022-12-12,Produce,Produce Category,NYC_Chelsea,103,909,4,1.8472801476725655,0,12,0
+2022-12-12,Produce,Produce Category,LA_Venice,201,646,4,2.878601493749887,0,12,0
+2022-12-12,Produce,Produce Category,CHI_Lincoln_Park,212,118,2,3.5456958448582805,0,12,0
+2022-12-12,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,376,641,3,0.6987287128002406,0,12,0
+2022-12-12,Dairy,Dairy Category,SF_Noe_Valley,237,227,1,3.9475216975801377,0,12,0
+2022-12-12,Dairy,Dairy Category,LA_Venice,243,802,4,2.2959508463317535,0,12,0
+2022-12-12,Dairy,Dairy Category,CHI_Lincoln_Park,433,359,2,0.6102430172044355,0,12,0
+2022-12-12,Grocery,Grocery Category,CHI_Lincoln_Park,115,756,3,4.289334968293606,0,12,0
+2022-12-13,Produce,Produce Category,CHI_Lincoln_Park,233,210,3,1.5457294537522153,0,12,1
+2022-12-13,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,169,993,3,4.577499509596237,0,12,1
+2022-12-13,Dairy,Dairy Category,LA_Venice,70,502,1,2.372546426319915,0,12,1
+2022-12-13,Dairy,Dairy Category,CHI_Lincoln_Park,80,436,3,2.7638777785092636,0,12,1
+2022-12-13,Grocery,Grocery Category,LA_Venice,102,507,3,2.986254353335501,0,12,1
+2022-12-14,Produce,Produce Category,SF_Noe_Valley,61,730,3,1.7792334181738252,0,12,2
+2022-12-14,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,128,540,3,1.3506778612738928,0,12,2
+2022-12-14,Meat & Seafood,Meat & Seafood Category,LA_Venice,323,195,2,3.6813941935507226,0,12,2
+2022-12-14,Dairy,Dairy Category,NYC_Chelsea,474,489,1,4.732018275812776,0,12,2
+2022-12-14,Dairy,Dairy Category,LA_Venice,170,676,3,1.7167697887303648,0,12,2
+2022-12-14,Dairy,Dairy Category,CHI_Lincoln_Park,477,551,4,4.5823991970228,0,12,2
+2022-12-14,Bakery,Bakery Category,NYC_Chelsea,132,276,2,2.197931242834368,0,12,2
+2022-12-14,Bakery,Bakery Category,SF_Noe_Valley,470,500,2,0.6903128715020654,0,12,2
+2022-12-14,Bakery,Bakery Category,CHI_Lincoln_Park,266,731,3,0.5196347134263909,0,12,2
+2022-12-14,Grocery,Grocery Category,SF_Noe_Valley,62,200,1,1.7529773371269555,0,12,2
+2022-12-15,Produce,Produce Category,NYC_Chelsea,250,632,4,4.01820738505221,0,12,3
+2022-12-15,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,77,652,3,2.559648223216823,0,12,3
+2022-12-15,Dairy,Dairy Category,SF_Noe_Valley,259,840,1,2.3710887530935256,0,12,3
+2022-12-15,Dairy,Dairy Category,LA_Venice,186,428,2,2.625268118733418,0,12,3
+2022-12-15,Dairy,Dairy Category,CHI_Lincoln_Park,149,720,3,3.2348845501372514,0,12,3
+2022-12-15,Bakery,Bakery Category,CHI_Lincoln_Park,77,425,4,0.7348938307023724,0,12,3
+2022-12-16,Produce,Produce Category,LA_Venice,103,749,1,1.7041670452758717,0,12,4
+2022-12-16,Produce,Produce Category,CHI_Lincoln_Park,95,624,1,4.5998091624532265,0,12,4
+2022-12-16,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,386,967,2,2.3613920371338586,0,12,4
+2022-12-16,Dairy,Dairy Category,CHI_Lincoln_Park,237,957,2,3.930390644098724,0,12,4
+2022-12-16,Grocery,Grocery Category,NYC_Chelsea,230,781,3,2.2216114560678593,0,12,4
+2022-12-17,Produce,Produce Category,LA_Venice,56,855,1,2.1728268270784863,1,12,5
+2022-12-17,Meat & Seafood,Meat & Seafood Category,LA_Venice,160,406,1,2.9613346311712467,1,12,5
+2022-12-17,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,266,603,4,1.4319271317945705,1,12,5
+2022-12-17,Dairy,Dairy Category,SF_Noe_Valley,462,588,1,1.6097163574011109,1,12,5
+2022-12-17,Dairy,Dairy Category,CHI_Lincoln_Park,477,317,4,4.810054104446918,1,12,5
+2022-12-17,Bakery,Bakery Category,NYC_Chelsea,182,923,4,3.429308008031327,1,12,5
+2022-12-17,Bakery,Bakery Category,CHI_Lincoln_Park,66,670,2,1.3812488786042152,1,12,5
+2022-12-17,Grocery,Grocery Category,LA_Venice,350,438,3,4.917439957336016,1,12,5
+2022-12-18,Produce,Produce Category,NYC_Chelsea,400,511,3,1.6695724065927477,1,12,6
+2022-12-18,Produce,Produce Category,LA_Venice,265,537,4,2.9246585406782857,1,12,6
+2022-12-18,Meat & Seafood,Meat & Seafood Category,LA_Venice,133,919,1,2.5145304143468823,1,12,6
+2022-12-18,Dairy,Dairy Category,NYC_Chelsea,460,837,3,2.0942049417847097,1,12,6
+2022-12-18,Dairy,Dairy Category,SF_Noe_Valley,95,552,2,1.736167167715514,1,12,6
+2022-12-18,Dairy,Dairy Category,LA_Venice,259,689,2,1.3113857094025017,1,12,6
+2022-12-18,Bakery,Bakery Category,SF_Noe_Valley,57,527,1,0.7249056289685543,1,12,6
+2022-12-18,Bakery,Bakery Category,LA_Venice,289,430,1,2.872546973392607,1,12,6
+2022-12-19,Produce,Produce Category,SF_Noe_Valley,495,431,3,2.565335657197844,0,12,0
+2022-12-19,Produce,Produce Category,LA_Venice,360,969,2,0.5586330549068769,0,12,0
+2022-12-19,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,334,670,1,4.746657167690993,0,12,0
+2022-12-19,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,294,947,2,4.851737066417157,0,12,0
+2022-12-19,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,401,594,2,3.382768325969993,0,12,0
+2022-12-19,Dairy,Dairy Category,CHI_Lincoln_Park,135,143,1,4.259335238789566,0,12,0
+2022-12-19,Bakery,Bakery Category,NYC_Chelsea,205,354,3,0.7072553038548037,0,12,0
+2022-12-19,Bakery,Bakery Category,SF_Noe_Valley,409,421,3,3.779876490214761,0,12,0
+2022-12-20,Produce,Produce Category,LA_Venice,178,771,1,3.9245356557292643,0,12,1
+2022-12-20,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,212,710,1,2.4996440715868147,0,12,1
+2022-12-20,Dairy,Dairy Category,NYC_Chelsea,398,792,3,2.37021753158301,0,12,1
+2022-12-20,Dairy,Dairy Category,SF_Noe_Valley,306,157,2,4.6320758900394665,0,12,1
+2022-12-20,Grocery,Grocery Category,NYC_Chelsea,286,832,4,3.117300318451371,0,12,1
+2022-12-21,Produce,Produce Category,NYC_Chelsea,452,208,4,2.4354629443841,0,12,2
+2022-12-21,Produce,Produce Category,SF_Noe_Valley,203,651,1,2.387515972807911,0,12,2
+2022-12-21,Produce,Produce Category,LA_Venice,411,183,3,2.950275960721526,0,12,2
+2022-12-21,Dairy,Dairy Category,CHI_Lincoln_Park,434,806,3,4.148953614535633,0,12,2
+2022-12-21,Bakery,Bakery Category,NYC_Chelsea,238,263,2,3.982577997967993,0,12,2
+2022-12-21,Bakery,Bakery Category,LA_Venice,339,532,3,0.7043147666091165,0,12,2
+2022-12-21,Grocery,Grocery Category,NYC_Chelsea,400,353,1,3.9449603773213737,0,12,2
+2022-12-22,Produce,Produce Category,SF_Noe_Valley,440,714,2,0.5454077301006113,0,12,3
+2022-12-22,Produce,Produce Category,CHI_Lincoln_Park,391,914,4,4.850804749096784,0,12,3
+2022-12-22,Meat & Seafood,Meat & Seafood Category,LA_Venice,446,442,2,1.8631890753819316,0,12,3
+2022-12-22,Dairy,Dairy Category,NYC_Chelsea,460,305,1,2.1692345367099435,0,12,3
+2022-12-22,Dairy,Dairy Category,SF_Noe_Valley,423,839,3,1.4921979561009788,0,12,3
+2022-12-22,Dairy,Dairy Category,LA_Venice,359,760,4,3.474564144112941,0,12,3
+2022-12-22,Bakery,Bakery Category,SF_Noe_Valley,492,261,3,2.829183355919849,0,12,3
+2022-12-22,Grocery,Grocery Category,LA_Venice,160,252,3,3.9155237713486897,0,12,3
+2022-12-23,Produce,Produce Category,CHI_Lincoln_Park,137,293,4,1.3108808935766656,0,12,4
+2022-12-23,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,456,477,3,4.327122266423769,0,12,4
+2022-12-23,Bakery,Bakery Category,LA_Venice,417,274,1,4.761908001988336,0,12,4
+2022-12-23,Grocery,Grocery Category,LA_Venice,177,551,2,0.5722783924145276,0,12,4
+2022-12-23,Grocery,Grocery Category,CHI_Lincoln_Park,468,587,2,3.6666490083307295,0,12,4
+2022-12-24,Produce,Produce Category,NYC_Chelsea,238,858,4,3.015412853448983,1,12,5
+2022-12-24,Produce,Produce Category,LA_Venice,482,267,3,2.4331817460922913,1,12,5
+2022-12-24,Meat & Seafood,Meat & Seafood Category,LA_Venice,495,582,3,2.2844915689548344,1,12,5
+2022-12-24,Dairy,Dairy Category,NYC_Chelsea,197,194,4,3.3126313373834257,1,12,5
+2022-12-24,Dairy,Dairy Category,LA_Venice,362,939,3,1.907884223848085,1,12,5
+2022-12-24,Dairy,Dairy Category,CHI_Lincoln_Park,163,883,3,4.577391772165672,1,12,5
+2022-12-25,Produce,Produce Category,SF_Noe_Valley,383,168,2,1.6120919959762636,1,12,6
+2022-12-25,Dairy,Dairy Category,SF_Noe_Valley,133,793,3,3.345269691369379,1,12,6
+2022-12-25,Bakery,Bakery Category,NYC_Chelsea,297,503,1,1.9636425766604837,1,12,6
+2022-12-25,Bakery,Bakery Category,SF_Noe_Valley,410,668,4,0.8037614600771987,1,12,6
+2022-12-25,Grocery,Grocery Category,NYC_Chelsea,374,511,2,2.999729408476371,1,12,6
+2022-12-26,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,51,735,4,3.4554022856355067,0,12,0
+2022-12-26,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,476,538,3,1.2744977127024995,0,12,0
+2022-12-26,Meat & Seafood,Meat & Seafood Category,LA_Venice,69,652,2,3.631088649449502,0,12,0
+2022-12-26,Dairy,Dairy Category,CHI_Lincoln_Park,183,818,3,3.5421182962364637,0,12,0
+2022-12-26,Bakery,Bakery Category,NYC_Chelsea,97,425,1,2.865902988016107,0,12,0
+2022-12-27,Produce,Produce Category,NYC_Chelsea,454,990,4,3.1441364199923085,0,12,1
+2022-12-27,Produce,Produce Category,SF_Noe_Valley,74,383,1,0.5692770126108881,0,12,1
+2022-12-27,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,469,172,1,3.2776205938192655,0,12,1
+2022-12-27,Meat & Seafood,Meat & Seafood Category,LA_Venice,311,275,2,0.9585189539282155,0,12,1
+2022-12-27,Dairy,Dairy Category,LA_Venice,176,508,4,4.375938316167908,0,12,1
+2022-12-27,Dairy,Dairy Category,CHI_Lincoln_Park,428,172,3,0.5407437271116694,0,12,1
+2022-12-27,Grocery,Grocery Category,NYC_Chelsea,217,138,1,4.182663049166018,0,12,1
+2022-12-27,Grocery,Grocery Category,LA_Venice,112,836,1,0.5711593830483292,0,12,1
+2022-12-28,Produce,Produce Category,NYC_Chelsea,252,160,2,3.7973006365377433,0,12,2
+2022-12-28,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,187,437,2,2.224779078389906,0,12,2
+2022-12-28,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,436,969,1,1.6401072652684763,0,12,2
+2022-12-28,Dairy,Dairy Category,NYC_Chelsea,313,790,2,2.170008222935575,0,12,2
+2022-12-28,Dairy,Dairy Category,SF_Noe_Valley,439,718,1,2.0012305506306944,0,12,2
+2022-12-28,Dairy,Dairy Category,LA_Venice,402,793,1,3.499083713870761,0,12,2
+2022-12-28,Dairy,Dairy Category,CHI_Lincoln_Park,390,869,1,4.431753140820013,0,12,2
+2022-12-28,Bakery,Bakery Category,SF_Noe_Valley,217,519,2,3.4219504605959674,0,12,2
+2022-12-28,Bakery,Bakery Category,LA_Venice,141,629,2,2.7503605322221216,0,12,2
+2022-12-28,Bakery,Bakery Category,CHI_Lincoln_Park,235,284,1,1.8547073502544087,0,12,2
+2022-12-28,Grocery,Grocery Category,CHI_Lincoln_Park,256,228,3,3.708320035364626,0,12,2
+2022-12-29,Produce,Produce Category,LA_Venice,390,744,1,1.3354101720555935,0,12,3
+2022-12-29,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,158,402,4,2.5079054943989467,0,12,3
+2022-12-29,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,178,295,4,1.6248062587892955,0,12,3
+2022-12-29,Dairy,Dairy Category,LA_Venice,202,848,3,1.4722705231014488,0,12,3
+2022-12-29,Dairy,Dairy Category,CHI_Lincoln_Park,438,647,2,2.0949122695687468,0,12,3
+2022-12-29,Bakery,Bakery Category,SF_Noe_Valley,146,980,1,4.566012995446386,0,12,3
+2022-12-29,Bakery,Bakery Category,CHI_Lincoln_Park,88,761,1,4.364675470256696,0,12,3
+2022-12-29,Grocery,Grocery Category,SF_Noe_Valley,463,924,3,3.2474603975694105,0,12,3
+2022-12-30,Meat & Seafood,Meat & Seafood Category,LA_Venice,183,719,2,1.8355400690893275,0,12,4
+2022-12-30,Dairy,Dairy Category,LA_Venice,171,749,3,0.9740546801659993,0,12,4
+2022-12-30,Grocery,Grocery Category,CHI_Lincoln_Park,121,462,1,2.3663112213536195,0,12,4
+2022-12-31,Produce,Produce Category,NYC_Chelsea,68,294,2,2.353391331878732,1,12,5
+2022-12-31,Produce,Produce Category,SF_Noe_Valley,462,453,3,2.9600836479467993,1,12,5
+2022-12-31,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,97,532,1,1.0274175755610504,1,12,5
+2022-12-31,Dairy,Dairy Category,LA_Venice,56,413,1,4.781489129265565,1,12,5
+2022-12-31,Dairy,Dairy Category,CHI_Lincoln_Park,111,628,3,0.8107065784156988,1,12,5
+2022-12-31,Grocery,Grocery Category,LA_Venice,169,923,1,2.5927486173528997,1,12,5
+2022-12-31,Grocery,Grocery Category,CHI_Lincoln_Park,474,598,4,2.0013277812658954,1,12,5
+2023-01-01,Produce,Produce Category,NYC_Chelsea,255,512,3,4.1926944095446395,1,1,6
+2023-01-01,Bakery,Bakery Category,NYC_Chelsea,384,831,4,3.41743103353443,1,1,6
+2023-01-01,Bakery,Bakery Category,CHI_Lincoln_Park,384,631,4,4.741456728546074,1,1,6
+2023-01-01,Grocery,Grocery Category,CHI_Lincoln_Park,89,158,3,2.163083897420479,1,1,6
+2023-01-02,Produce,Produce Category,SF_Noe_Valley,171,578,3,4.681797810179267,0,1,0
+2023-01-02,Produce,Produce Category,CHI_Lincoln_Park,305,660,1,0.5239106405075568,0,1,0
+2023-01-02,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,366,603,3,0.7189594864777099,0,1,0
+2023-01-02,Dairy,Dairy Category,CHI_Lincoln_Park,404,584,3,3.2921320327338677,0,1,0
+2023-01-02,Bakery,Bakery Category,NYC_Chelsea,120,191,1,2.061331968805513,0,1,0
+2023-01-02,Grocery,Grocery Category,LA_Venice,294,569,2,1.2041452220162026,0,1,0
+2023-01-03,Produce,Produce Category,NYC_Chelsea,103,627,4,3.1482722082154497,0,1,1
+2023-01-03,Produce,Produce Category,CHI_Lincoln_Park,271,815,2,2.7817684103242324,0,1,1
+2023-01-03,Dairy,Dairy Category,NYC_Chelsea,195,417,4,2.4398908818048026,0,1,1
+2023-01-03,Bakery,Bakery Category,NYC_Chelsea,110,228,2,1.712803380315227,0,1,1
+2023-01-03,Grocery,Grocery Category,CHI_Lincoln_Park,437,579,3,4.924875455683103,0,1,1
+2023-01-04,Produce,Produce Category,NYC_Chelsea,406,439,4,1.177736464482233,0,1,2
+2023-01-04,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,128,616,4,0.6754069429750869,0,1,2
+2023-01-04,Dairy,Dairy Category,NYC_Chelsea,236,603,4,3.8130299713784757,0,1,2
+2023-01-04,Bakery,Bakery Category,NYC_Chelsea,231,992,4,4.852686143868645,0,1,2
+2023-01-04,Bakery,Bakery Category,SF_Noe_Valley,189,398,1,3.8668276042198086,0,1,2
+2023-01-04,Bakery,Bakery Category,LA_Venice,414,958,3,3.0702303438006244,0,1,2
+2023-01-04,Grocery,Grocery Category,SF_Noe_Valley,236,598,2,3.047813110512819,0,1,2
+2023-01-05,Produce,Produce Category,LA_Venice,163,532,4,1.890301955306687,0,1,3
+2023-01-05,Meat & Seafood,Meat & Seafood Category,LA_Venice,246,952,1,3.141214279515082,0,1,3
+2023-01-05,Dairy,Dairy Category,NYC_Chelsea,432,118,3,3.542564289147306,0,1,3
+2023-01-05,Bakery,Bakery Category,NYC_Chelsea,188,721,2,2.0385737514747064,0,1,3
+2023-01-05,Bakery,Bakery Category,CHI_Lincoln_Park,317,661,4,4.374703847764904,0,1,3
+2023-01-05,Grocery,Grocery Category,SF_Noe_Valley,63,814,4,2.5464395414869747,0,1,3
+2023-01-06,Produce,Produce Category,SF_Noe_Valley,326,744,3,3.6089778944787025,0,1,4
+2023-01-06,Dairy,Dairy Category,SF_Noe_Valley,263,853,3,2.5380998162042485,0,1,4
+2023-01-06,Dairy,Dairy Category,LA_Venice,483,503,2,4.005961638781041,0,1,4
+2023-01-06,Bakery,Bakery Category,SF_Noe_Valley,167,631,2,4.595958656904905,0,1,4
+2023-01-06,Bakery,Bakery Category,CHI_Lincoln_Park,62,933,1,4.252063779134723,0,1,4
+2023-01-06,Grocery,Grocery Category,LA_Venice,413,910,2,3.6618809263620298,0,1,4
+2023-01-07,Produce,Produce Category,SF_Noe_Valley,389,727,3,4.47311667433425,1,1,5
+2023-01-07,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,288,254,1,4.100330444345905,1,1,5
+2023-01-07,Meat & Seafood,Meat & Seafood Category,SF_Noe_Valley,122,278,4,1.4730215410750087,1,1,5
+2023-01-07,Dairy,Dairy Category,SF_Noe_Valley,422,833,2,2.008755725352331,1,1,5
+2023-01-07,Dairy,Dairy Category,CHI_Lincoln_Park,482,884,4,4.513518964654532,1,1,5
+2023-01-07,Bakery,Bakery Category,LA_Venice,120,463,2,1.5321459966695257,1,1,5
+2023-01-08,Produce,Produce Category,NYC_Chelsea,175,907,4,2.4788321892855887,1,1,6
+2023-01-08,Produce,Produce Category,LA_Venice,159,291,4,1.4886805567613017,1,1,6
+2023-01-08,Meat & Seafood,Meat & Seafood Category,NYC_Chelsea,77,148,4,3.532973936655787,1,1,6
+2023-01-08,Meat & Seafood,Meat & Seafood Category,CHI_Lincoln_Park,272,437,4,0.8441597997469088,1,1,6
+2023-01-08,Dairy,Dairy Category,NYC_Chelsea,425,570,2,2.6804209778600487,1,1,6
+2023-01-08,Dairy,Dairy Category,CHI_Lincoln_Park,241,585,2,2.7747894217543876,1,1,6
+2023-01-08,Grocery,Grocery Category,CHI_Lincoln_Park,155,280,4,2.137143385134201,1,1,6

@@ -1,0 +1,10 @@
+supplier,region,avg_delivery_time_days,reliability_score
+Local_Farms_Co,Northeast,2,0.9377511544968326
+Local_Farms_Co,West Coast,2,0.9267703440668944
+Local_Farms_Co,Midwest,1,0.9638185649950559
+Organic_Valley,Northeast,3,0.8085426739023948
+Organic_Valley,West Coast,3,0.959620534903448
+Organic_Valley,Midwest,1,0.9453804624751856
+Sustainable_Seafood_Inc,Northeast,2,0.8370816382715436
+Sustainable_Seafood_Inc,West Coast,2,0.8894647976824036
+Sustainable_Seafood_Inc,Midwest,1,0.8935881234431265
